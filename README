@@ -1,0 +1,2 @@
+This is a driver only for FS-1040. 
+To install it: type ./install.sh in the driver folder.
