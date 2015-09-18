@@ -52,7 +52,7 @@
 *cupsModelNumber: 0
 *cupsSNMPSupplies: False
  
-*cupsFilter: "application/vnd.cups-raster 0 /usr/lib/cups/filter/rastertokpsl-fixed"
+*cupsFilter: "application/vnd.cups-raster 0 /usr/libexec/cups/filter/rastertokpsl-fixed"
  
 *% Basic Device Capabilities
 *LandscapeOrientation: Plus90
